@@ -2,12 +2,12 @@
 # coding: utf-8
 
 # This is a notebok is a small script to pull in all information from the analysis of Nanopore sequencing data in each sequencing run (replicate) for pathogen detection and microbiome profiling. It needs to pull in the following:
-#     * sequence summary file from albacore (I did not upload sequencing summary file, but availale upon request)
+#     * sequence summary file from albacore
 #     * two blast output files
 #     * get the length of all porchoped reads
 #     * get processing (True/False) for porchoped
 #     * get this all into one data frame
-# All summary_df are availale upon request
+# All summary_df and sequencing summary file used in this study are availale at https://doi.org/10.6084/m9.figshare.7138262 
 
 # In[ ]:
 
