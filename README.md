@@ -17,3 +17,8 @@ Prepare_figure4_info.ipynb: generating dataframe and plotting figure 4
 Prepare_figure5_info.ipynb: generating dataframe for plotting figure 5
 
 figure5_plotting.ipynb: used for plotting figure 5
+
+separate_stago_reads_into_fasta.ipynb: separate Parastagonospora nodorum reads from each replicates.
+The Parastagonospora nodorum reads from each replicates were then concatenated together before performing BLAST analysis.
+
+suppliment_figureS1_plotting.ipynb: ultilizing BLAST output file from the BLAST analysis of Stago reads against NCBI nt database, plotting supplimentary figureS1
