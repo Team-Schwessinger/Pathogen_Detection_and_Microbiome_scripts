@@ -7,3 +7,13 @@ Here are brief descriptions for each script, detailed explainations are commente
 QC_and_BLAST.py: combined all the programes used in the analysis and save ouput files from each step into the desired place.
 
 creating_final_dataframe.py: re-organizing all the output files of basecalling and each BLAST step, summarizing all the relavant information for data visualization.
+
+Prepare_figure2&3_info.ipynb: generating dataframe for plotting figure 2 and figure 3
+
+figure_2&3_plotting.ipynb: used for plotting figure 2 and figure 3
+
+Prepare_figure4_info.ipynb: generating dataframe and plotting figure 4
+
+Prepare_figure5_info.ipynb: generating dataframe for plotting figure 5
+
+figure5_plotting.ipynb: used for plotting figure 5
